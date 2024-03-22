@@ -1,3 +1,3 @@
-Tree tool.
+# Tree tool.
 
-Shows directories and files (if -f is specified)
+A tool to shows directories and files (if -f is specified)
